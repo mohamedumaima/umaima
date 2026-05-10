@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:binthlafeer5@gmail.com">📧 binthlafeer5@gmail.com</a> &nbsp;|&nbsp;
+  <a href="mailto:mohamedumaima119@gmail.com">📧 mohamedumaima119@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/umaima-lafeer-05b955252">💼 LinkedIn</a> &nbsp;|&nbsp;
   📍 Dehiwala, Sri Lanka
 </p>
