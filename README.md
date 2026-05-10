@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Umaima 👋</h1>
 
 <p align="center">
-  <em>Software Engineering Undergraduate · IT Academic Coordinator · Graphic Design Enthusiast</em>
+  <em>Software Engineering Undergraduate · Marketing Executive · Graphic Design Enthusiast</em>
 </p>
 
 <p align="center">
@@ -14,58 +14,69 @@
 
 ## 👩‍💻 About Me
 
-I'm a proactive and self-driven Software Engineering undergraduate with a passion for building meaningful digital solutions. Currently working as an **IT Academic Coordinator** at CeyLearn Academy while pursuing my degree at the British Institute of Engineering Technology (BIET).
+I'm a proactive and self-driven Software Engineering undergraduate passionate about building meaningful digital solutions. With hands-on experience spanning software development, cybersecurity, marketing, and graphic design, I bring a versatile skill set to every project I work on.
 
-- 🎓 Studying **Software Engineering** (Degree) at BIET
-- 💼 Working as **IT Academic Coordinator** at CeyLearn Academy
-- 🛠️ Freelancing as a **Software Engineer** since 2023
-- 🎨 Skilled in both **development and graphic design**
-- 🌱 Continuously learning and growing in the tech space
+- 🎓 Studying **Software Engineering** (Degree) at British Institute of Engineering Technology (BIET)
+- 💼 Currently working as **Marketing Executive** at Thelivu Consultation (Pvt) Ltd
+- 🏫 Former **IT Academic Coordinator** at CeyLearn Academy
+- 🛠️ **Freelance Software Engineer** since 2023
+- 🔐 Certified in **Cyber Security**
+- 🌱 Always learning, always growing
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Web
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-007396?style=for-the-badge&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Database & Tools
+### Mobile & Database
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+### Design & Productivity
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)
+![MS Office](https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ---
 
 ## 🚀 Projects
 
 ### 🏥 Medical History Management System
-A full-stack web application for managing patient medical records.
+A full-stack web application for managing patient medical records efficiently.
 - **Tech:** HTML5, CSS3, PHP, JavaScript, Bootstrap, jQuery, AJAX
 - Streamlines patient data entry, retrieval, and history tracking
 
 ### 🏫 Student Database System for School
-A structured database solution for managing school student records.
+A structured database solution for managing school student information.
 - **Tech:** Microsoft Excel (MS Office)
-- Enables efficient tracking and organization of student information
+- Enables efficient tracking and organization of student records
+
+---
+
+## 💼 Experience
+
+| Role | Organization | Period |
+|------|-------------|--------|
+| 🚀 Marketing Executive | Thelivu Consultation (Pvt) Ltd | 2026 – Present |
+| 🎓 IT Academic Coordinator | CeyLearn Academy | 2025 |
+| 💻 Software Engineer Intern | Freelance | 2023 – Present |
 
 ---
 
 ## 📜 Certifications
 
+- 🔐 Diploma in Cyber Security — Alison
 - 🎓 Diploma in Software Engineering — Wayamba University of Sri Lanka
 - 🎨 Diploma in Graphic Design — CeyLearn Academy
 - 🌐 Diploma in English
